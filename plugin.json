@@ -1,0 +1,11 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "api": 1,
+  "description": "JavaScript and TypeScript syntax highlighting and auto-indent",
+  "extensions": [".js", ".mjs", ".cjs", ".jsx", ".ts", ".mts", ".cts", ".tsx"],
+  "entry": "index.js",
+  "author": "jano-editor",
+  "homepage": "https://janoeditor.dev",
+  "license": "MIT"
+}
